@@ -1,2 +1,1 @@
-**Project name: ** under development **Program calculating the result based on given numbers by users and choosed operator**
-**Need to be run on** Visual Studio
+## Project name still under development: Program that can calculating the result of 2 numbers given by users and choosed operator ##
