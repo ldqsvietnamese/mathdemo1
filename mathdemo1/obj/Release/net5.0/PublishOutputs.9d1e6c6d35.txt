@@ -1,0 +1,5 @@
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\publish\mathdemo1.exe
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\publish\mathdemo1.dll
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\publish\mathdemo1.deps.json
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\publish\mathdemo1.runtimeconfig.json
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\publish\mathdemo1.pdb

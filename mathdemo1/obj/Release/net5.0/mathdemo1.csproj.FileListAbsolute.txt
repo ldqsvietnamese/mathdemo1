@@ -1,0 +1,16 @@
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\mathdemo1.exe
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\mathdemo1.deps.json
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\mathdemo1.runtimeconfig.json
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\mathdemo1.runtimeconfig.dev.json
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\mathdemo1.dll
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\ref\mathdemo1.dll
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\bin\Release\net5.0\mathdemo1.pdb
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.csproj.AssemblyReference.cache
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.AssemblyInfoInputs.cache
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.AssemblyInfo.cs
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.csproj.CoreCompileInputs.cache
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.dll
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\ref\mathdemo1.dll
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.pdb
+C:\Users\ldqsv\source\repos\mathdemo1\mathdemo1\obj\Release\net5.0\mathdemo1.genruntimeconfig.cache
