@@ -1,3 +1,2 @@
-# Project: Math program.
-## Requirement to run: Visual Studio.
-### This program is using 2 input number and choose operator to calculate the result.
+*Project name: * under development *Program calculating the result based on given numbers by users and choosed operator*
+*Need to be run on* Visual Studio
